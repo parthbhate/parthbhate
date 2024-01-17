@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Parth Bhate</h1>
 
- <img align="right" alt="Coding" width="400" src="https://github.com/parthbhate/parthbhate/assets/76844480/9489e7f7-c5ea-4714-8a47-f0f715ce1083" alt="coding" width="400" /> 
+ <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif?raw=true" alt="coding" width="400" /> 
 <B>Software Developer🧑‍💻</B>
 
 
-<h3 align="left">A dynamic Software Developer based in India, I specialize in full-stack development with a strong focus on ReactJS, MongoDB, JavaScript, Node.js, and Java. I'm Motivated and outcome-oriented engineering student specializing in Computer Science & Engineering. I am passionate about leveraging cutting-edge technologies such as (Skills->>) ReactJS, MongoDB, JavaScript, Node.js, and Java. My results-driven approach, coupled with a commitment to staying ahead of industry trends, positions me as a valuable contributor to any project. Eager to make a meaningful impact, I bring a precise skill set and enthusiasm for excellence to the field of Information Science & Engineering.</h3>
+<h3 align="left"> A dynamic Software Developer based in India, I specialize in full-stack development with a strong focus on ReactJS, MongoDB, JavaScript, Node.js, and Java. I'm Motivated and outcome-oriented engineering student specializing in Computer Science & Engineering. I am passionate about leveraging cutting-edge technologies such as (Skills->>) ReactJS, MongoDB, JavaScript, Node.js, and Java. My results-driven approach, coupled with a commitment to staying ahead of industry trends, positions me as a valuable contributor to any project. Eager to make a meaningful impact, I bring a precise skill set and enthusiasm for excellence to the field of Information Science & Engineering.</h3>
 
 
 
