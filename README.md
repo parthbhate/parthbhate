@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Parth Bhate</h1>
 
- <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif?raw=true" alt="coding" width="400" /> 
+ <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif?cid=ecf05e471txaht2mlg890ptc6nn0y09mraqq6ivi7vs0zgfb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" width="400" /> 
 <B>Software Developer🧑‍💻</B>
 
 
