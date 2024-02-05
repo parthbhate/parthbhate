@@ -1,4 +1,4 @@
-![logo](https://github.com/parthbhate/parthbhate/blob/main/github%20Bannerr.gif)
+![centre logo](https://github.com/parthbhate/parthbhate/blob/main/git%20banner.gif?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Parth Bhate</h1>
