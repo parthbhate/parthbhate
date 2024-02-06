@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbhate&label=Profile%20views&color=0e75b6&style=flat" alt="parthbhate" /> </p>
 
-- 🦾 I’m currently working on <mark> <em>**E commerce - Dashboard Project (Using - MERN)**</em>
+- 🦾 I’m currently working on <mark> <em>** portfolio website**</em>
 
 - 📫 You can contact me on **Parthbhate1@gmail.com**
 
